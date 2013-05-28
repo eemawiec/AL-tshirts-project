@@ -3,7 +3,27 @@
 - TAK
 - NIE
 
-2. put put
+2. Jakiego koloru mia³aby byæ koszulka firmowa, któr¹ chcia³byœ nosiæ? (multiple choice)
+
+- bia³a
+- czarna
+- ró¿owa
+- zielona
+- moro
+- niebieska
+- ¿ó³ta (robaczki w lato to lubi¹)
+- inna: [pole tekstowe]
+
+3. Jakie inne gad¿ety firmowe chcia³byœ / chcia³byœ nosiæ?
+
+- bluza
+- torba na laptopa
+- majtki
+- skarpetki
+- czapkê
+- inne: [pole tekstowe]
+
+4. put put
 
 - put put
 - put put
