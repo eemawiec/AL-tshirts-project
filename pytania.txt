@@ -28,8 +28,10 @@
 
 [pole tekstowe]
 
-5. put put
+5. Jaki rodzaj koszulki preferujesz?
 
-- put put
-- put put
+- T-shirt
+- Polo shirt
+
+6. 
 
